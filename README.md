@@ -1,8 +1,19 @@
-# Taskgami : canal de mises à jour
+# Taskgami
 
-Ce dépôt ne contient pas le code de Taskgami. Il sert un fichier lu par
-l'application pour savoir si une nouvelle version existe.
+Taskgami est un widget de tâches pour Windows (bulles empilables, criticité,
+rappels), édité par DZ IT Strategy : https://dzitstrategy.fr
+
+## Ce dépôt
+
+Ce dépôt ne contient pas le code source de l'application. Il sert de canal de
+diffusion :
+
+- les **Releases** proposent le build d'évaluation (`Taskgami.exe`, essai
+  gratuit de 30 jours) ;
+- le fichier `manifest.json` est lu par l'application installée pour détecter
+  une nouvelle version ou une révocation.
 
 Aucune contribution : les tickets et propositions ne sont pas suivis ici.
 
-Taskgami est édité par DZ IT Strategy : https://dzitstrategy.fr
+© DZ IT Strategy. Tous droits réservés. Ce dépôt et le logiciel qu'il
+distribue ne sont couverts par aucune licence open source.
